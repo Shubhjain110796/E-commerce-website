@@ -1,0 +1,8 @@
+.direaction{
+    display: flex;
+    flex-direction: row;
+    font-size: medium;
+}
+.body{
+    background-color: black;
+}
